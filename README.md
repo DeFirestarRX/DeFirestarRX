@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there!
+I'm DeFirestarRX, just someone interested in the internet as a whole.
+My repositories vary from time to time (I get bored easily)
+If you're reading this say hi!
 <!--
 **DeFirestarRX/DeFirestarRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
